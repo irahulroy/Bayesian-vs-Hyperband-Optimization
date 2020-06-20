@@ -1,5 +1,3 @@
 # Boston-housing
-Deep learning tutorial using Boston housing data. 
-Hyperparameter tuning via kerastuner: Bayesian vs Hyperband.
-
+Deep learning regression with hyperparameter tuning using kerastuner (Bayesian vs Hyperband).
 
